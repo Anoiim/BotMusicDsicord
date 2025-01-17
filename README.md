@@ -15,6 +15,13 @@ Funcionalidades 🚀
 
 🆘 Ajuda: Comando !help que exibe a lista de comandos disponíveis.
 
+
+| Comandos Disponíveis 💡   | Comando	Descrição  | 
+|------------|------------|------------|
+| !play [nome/link]  | Toca/adiciona uma música pelo nome ou link do YouTube.|
+| Dado 4     | Dado 5     | Dado 6     |
+
+
 Comandos Disponíveis 💡
 
 Comando	Descrição
