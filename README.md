@@ -44,12 +44,12 @@ cd BotMusicDiscord
 
 Instale as dependencias: pip install -r requirements.txt
 
-3.Adicione o token do seu bot no arquivo "config.py"
+Adicione o token do seu bot no arquivo "config.py"
 
 TOKEN = "Seu token"
 
 
-4.Execute o bot:
+Execute o bot:
 
 
 python app.py
