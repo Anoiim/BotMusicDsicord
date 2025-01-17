@@ -16,30 +16,14 @@ Funcionalidades 🚀
 🆘 Ajuda: Comando !help que exibe a lista de comandos disponíveis.
 
 
-| Comandos Disponíveis 💡   | Comando	Descrição  | 
-|------------|------------|------------|
-| !play [nome/link]  | Toca/adiciona uma música pelo nome ou link do YouTube.|
-| Dado 4     | Dado 5     | Dado 6     |
-
-
-Comandos Disponíveis 💡
-
-Comando	Descrição
-
-!play [nome/link]	Toca/adiciona uma música pelo nome ou link do YouTube.
-
-!pause	Pausa a música atual.
-
-!queue Exibe a fila de música
-
-!resume	Retoma a música pausada.
-
-!stop	Para a reprodução e limpa a fila.
-
-!next	Pula para a próxima música da fila.
-
-!help	Mostra a lista de comandos e suas descrições.
-
+| Comando       | Descrição                                         |
+|---------------|---------------------------------------------------|
+| `!play [nome/link]` | Toca uma música pelo nome ou link do YouTube.  |
+| `!pause`       | Pausa a música atual.                           |
+| `!resume`      | Retoma a música pausada.                        |
+| `!stop`        | Para a reprodução e limpa a fila.               |
+| `!next`        | Pula para a próxima música da fila.             |
+| `!help`        | Mostra a lista de comandos e suas descrições.   |
 
 Pré-requisitos
 Python 3.8 ou superior instalado na máquina.
