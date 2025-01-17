@@ -26,20 +26,34 @@ Funcionalidades 🚀
 | `!help`        | Mostra a lista de comandos e suas descrições.   |
 
 Pré-requisitos
+
 Python 3.8 ou superior instalado na máquina.
+
 Um token de bot do Discord.
+
+
 Passo a Passo
+
 Clone este repositório:
 
+
 git clone https://github.com/Anoiim/BotMusicDiscord.git
+
 cd BotMusicDiscord
+
 Instale as dependencias: pip install -r requirements.txt
+
 3.Adicione o token do seu bot no arquivo "config.py"
+
 TOKEN = "Seu token"
+
 
 4.Execute o bot:
 
+
 python app.py
+
+
 
 obs. Faça a instalação do ffmpeg no seu computador caso a musica não toque.
 https://www.ffmpeg.org/download.html
