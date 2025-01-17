@@ -21,6 +21,7 @@ Funcionalidades 🚀
 | `!play [nome/link]` | Toca uma música pelo nome ou link do YouTube.  |
 | `!pause`       | Pausa a música atual.                           |
 | `!resume`      | Retoma a música pausada.                        |
+|  `!queue`  	   | Exibe a fila de musica.
 | `!stop`        | Para a reprodução e limpa a fila.               |
 | `!next`        | Pula para a próxima música da fila.             |
 | `!help`        | Mostra a lista de comandos e suas descrições.   |
