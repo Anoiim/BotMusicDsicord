@@ -1,5 +1,7 @@
 BotMusicDiscord🎵
-Um bot de música para Discord, desenvolvido em Python, que permite reproduzir músicas diretamente em canais de voz..
+
+Um bot de música para Discord, desenvolvido em Python, que permite reproduzir músicas diretamente em canais de voz.
+
 
 Funcionalidades 🚀
 🎶 Reproduzir Músicas: Toque músicas diretamente do YouTube usando links ou nomes.
