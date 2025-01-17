@@ -33,5 +33,5 @@ TOKEN = "Seu token"
 
 python app.py
 
-obs. Faça a instalação do ffmpeg no seu computador. 
+obs. Faça a instalação do ffmpeg no seu computador caso a musica não toque.
 https://www.ffmpeg.org/download.html
